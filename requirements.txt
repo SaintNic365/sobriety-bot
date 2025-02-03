@@ -1,0 +1,5 @@
+discord
+discord.ext
+sqlite3
+os
+python-dotenv
